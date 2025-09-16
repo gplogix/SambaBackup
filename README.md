@@ -14,10 +14,7 @@ Automatically back up and sync your files from Android to a Samba (SMB v2/v3) ne
 
 - **Manual Synchronization**  
   - Uploads files created within the last 30 days that aren’t already on the server.  
-  - Deletes recent files (<30 days) on the server that have been removed locally.
-
-- **Detailed Logging**  
-  Track backup operations and any errors with built-in logging.
+  - Deletes recent files (<30 days) on the server that have been removed locally. Typical usage : Delete blurry or unwanted photos from local storage and reflect the changes on the server.
 
 - **Permissions & Compatibility**  
   - `READ_EXTERNAL_STORAGE`: access files for backup.  
