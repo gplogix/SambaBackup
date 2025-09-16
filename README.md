@@ -21,3 +21,6 @@ Automatically back up and sync your files from Android to a Samba (SMB v2/v3) ne
   - `WRITE_EXTERNAL_STORAGE`: optional for config and logs.  
   - `INTERNET`: connect to the Samba server.  
   Fully compatible with modern Android storage models.
+
+
+![Samba Backup Screenshot](SambaBackup-Screenshot.jpg)
